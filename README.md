@@ -8,3 +8,7 @@ Required components:
 C1 = 100nF ceramic or polyester.
 U1 = Eprom 2764 /27C64.
 SW1 = 6 mm x 6 mm Tact Switches (optional).
+
+EasyEDA project:
+
+https://oshwlab.com/zeus074_5150/simple-8k-cartridge-c64-128
